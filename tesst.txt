@@ -1,1 +1,3 @@
-acesta aeste  un documemnt initial
+acesta este  un documemnt initial
+
+acest rand l-am adaugat apoi sa  testez
